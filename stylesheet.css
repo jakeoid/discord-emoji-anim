@@ -1,6 +1,6 @@
 /** 
 
-    DISCORD EMOJI ANIMATIONS. (V.02)
+    DISCORD EMOJI ANIMATIONS. (V.03)
     --------------------------------
 
     Hey, heres a pretty cool improvement to your Discord client.
@@ -16,14 +16,16 @@
 	Hearts
 ** ******************** **/ 
 
-img[src*="/assets/c98c3b661e0c450ea71e1f459a8a6f62.svg"], img[src*="/assets/bfdf252c56d399cc55179d7060b4eb2d.svg"],
-img[src*="/assets/dcbf6274f0ce0f393d064a72db2c8913.svg"], img[src*="/assets/599c362e721a4f13c753ebdc385725bf.svg"],
-img[src*="/assets/599c362e721a4f13c753ebdc385725bf.svg"], img[src*="/assets/80be7d03c69d814bd18ff86e7d5de8f3.svg"],
-img[src*="/assets/cc005253d0d5dfff7f7d317e164102d7.svg"], img[src*="/assets/381baae5679b73dc27b754329324491d.svg"],
-img[src*="/assets/9e62a2acc00cd50132c7e09acf4671ff.svg"], img[src*="/assets/a42df564f00ed8bbca652dc9345d3834.svg"],
-img[src*="/assets/3a19915ca846aa5ac3299a8b8f6a1bbe.svg"], img[src*="/assets/70f567f2381c57bef68c7207047a11cf.svg"] {
-	animation: heartbeat 1s infinite;
-}
+/** Hearts     **/ 	img[src*="/assets/c98c3b661e0c450ea71e1f459a8a6f62.svg"], img[src*="/assets/bfdf252c56d399cc55179d7060b4eb2d.svg"],
+					img[src*="/assets/dcbf6274f0ce0f393d064a72db2c8913.svg"], img[src*="/assets/599c362e721a4f13c753ebdc385725bf.svg"],
+					img[src*="/assets/599c362e721a4f13c753ebdc385725bf.svg"], img[src*="/assets/80be7d03c69d814bd18ff86e7d5de8f3.svg"],
+					img[src*="/assets/cc005253d0d5dfff7f7d317e164102d7.svg"], img[src*="/assets/381baae5679b73dc27b754329324491d.svg"],
+					img[src*="/assets/9e62a2acc00cd50132c7e09acf4671ff.svg"], img[src*="/assets/a42df564f00ed8bbca652dc9345d3834.svg"],
+					img[src*="/assets/3a19915ca846aa5ac3299a8b8f6a1bbe.svg"], img[src*="/assets/70f567f2381c57bef68c7207047a11cf.svg"] {
+						animation: heartbeat 1s infinite;
+					}
+/** Kiss        **/ img[src*="/assets/0f7bf0aae65b06ec5a342ae10c4b1856.svg"] {animation: heartbeat 1s infinite;}
+
 
 /** ******************** **
 	ETC
@@ -54,7 +56,6 @@ img[src*="/assets/3a19915ca846aa5ac3299a8b8f6a1bbe.svg"], img[src*="/assets/70f5
 ** ******************** **/
 
 /** Money Wings **/ img[src*="/assets/630828f0eaa647bf465b3b903b0dbc5f.svg"] {animation: wobble 2s infinite;}
-/** Kiss        **/ img[src*="/assets/0f7bf0aae65b06ec5a342ae10c4b1856.svg"] {animation: heartbeat 1s infinite;}
 /** Hammer      **/ img[src*="/assets/596bd0f8541debff8d44326e840ea085.svg"] {animation: wobble 0.5s infinite;}
 /** Pickaxe     **/ img[src*="/assets/4d61ad14c090b4d6a2d1c989d78bc273.svg"] {animation: wobble 0.5s infinite;}
 
@@ -67,13 +68,13 @@ img[src*="/assets/3a19915ca846aa5ac3299a8b8f6a1bbe.svg"], img[src*="/assets/70f5
 
 /** ROFL        **/ img[src*="/assets/a8fc44fdb07e26cf994055376a719540.svg"] {animation: rofl 2s infinite;}
 /** Upside Down **/ img[src*="/assets/96b458e549758981dba74c32137c0784.svg"] {animation: wobble 2s infinite;}
-/** Scared      **/ img[src*="/assets/9bd8b85559466379744360f8c9841f39.svg"] {animation: scare 2s infinite;}
+/** Scream      **/ img[src*="/assets/9bd8b85559466379744360f8c9841f39.svg"] {animation: scare 2s infinite;}
 /** Joyful      **/ img[src*="/assets/cae9e3b02af6e987442df2953de026fc.svg"] {animation: joy 2s infinite;}
 /** Heart Eyes  **/ img[src*="/assets/7e4f6dcf32845bfa865cf17491faf867.svg"] {animation: heartbeat 1s infinite;}
 /** Sneezing    **/ img[src*="/assets/f2ff2b63da9f3c90788af6db317ee268.svg"] {animation: wobble 1s infinite;}
 
 /** Joyful Cat  **/ img[src*="/assets/9d0105dee7788a1fd4afbafe46dbd49b.svg"] {animation: joy 2s infinite;}
-/** Heart Eyes  **/ img[src*="/assets/cc8afc69b651db9c2e9be9922eb84d52.svg"] {animation: heartbeat 1s infinite;}
+/** Heart Cat   **/ img[src*="/assets/cc8afc69b651db9c2e9be9922eb84d52.svg"] {animation: heartbeat 1s infinite;}
 
 
 /** ************************************************ **/
