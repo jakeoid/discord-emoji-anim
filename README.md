@@ -4,7 +4,7 @@ When you first begin with Discord you're left with some pretty subpar level Emoj
 
 So.. just what Emoji are edited?
 
-💋❤❤💔💕💖💗💙💚💛💜🖤
+💋❤💔💕💖💗💙💚💛💜🖤
 ☀❄⌛
 ⚽⚾🏀🏐🎾
 💿📀⚙
