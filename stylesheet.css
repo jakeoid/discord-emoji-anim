@@ -1,0 +1,89 @@
+/** 
+
+    DISCORD EMOJI ANIMATIONS. (V.02)
+    --------------------------------
+
+    Hey, heres a pretty cool improvement to your Discord client.
+    Some basic animations to some emoji! They're not very popular
+    emoji though. If you have any you'd like animated please let
+    me know @jakeoid#6284.
+
+    https://owo.whats-th.is/d8ef5d.gif
+
+**/
+
+/** ******************** **
+	Hearts
+** ******************** **/ 
+
+img[src*="/assets/c98c3b661e0c450ea71e1f459a8a6f62.svg"], img[src*="/assets/bfdf252c56d399cc55179d7060b4eb2d.svg"],
+img[src*="/assets/dcbf6274f0ce0f393d064a72db2c8913.svg"], img[src*="/assets/599c362e721a4f13c753ebdc385725bf.svg"],
+img[src*="/assets/599c362e721a4f13c753ebdc385725bf.svg"], img[src*="/assets/80be7d03c69d814bd18ff86e7d5de8f3.svg"],
+img[src*="/assets/cc005253d0d5dfff7f7d317e164102d7.svg"], img[src*="/assets/381baae5679b73dc27b754329324491d.svg"],
+img[src*="/assets/9e62a2acc00cd50132c7e09acf4671ff.svg"], img[src*="/assets/a42df564f00ed8bbca652dc9345d3834.svg"],
+img[src*="/assets/3a19915ca846aa5ac3299a8b8f6a1bbe.svg"], img[src*="/assets/70f567f2381c57bef68c7207047a11cf.svg"] {
+	animation: heartbeat 1s infinite;
+}
+
+/** ******************** **
+	ETC
+** ******************** **/
+
+/** Sun         **/ img[src*="/assets/c98c3b661e0c450ea71e1f459a8a6f62.svg"] {animation: rotate 2s infinite;}
+/** Snowflake   **/ img[src*="/assets/490f3ebaf8012cc0a2c3109ab3faff63.svg"] {animation: rotate 2s infinite;}
+/** Hourglass   **/ img[src*="/assets/04f7d73e7ce036a854ff6aa9b24473d7.svg"] {animation: hourglass 2s infinite;}
+
+/** ******************** **
+	Sports
+** ******************** **/
+
+/** Soccer      **/ img[src*="/assets/c60aaf4dfcb496fd6ffd825b2587b2d5.svg"] {animation: rotate 2s infinite;} 
+/** Basketball  **/ img[src*="/assets/255312d1086d2531262c3c7a035f0fb8.svg"] {animation: rotate 2s infinite;}
+/** Baseball    **/ img[src*="/assets/27209854bc98486318964e188f82f753.svg"] {animation: rotate 2s infinite;} 
+/** Tennis      **/ img[src*="/assets/2e6dbd914bcb249de840736a7e08187c.svg"] {animation: rotate 2s infinite;}
+
+/** ******************** **
+	Tech
+** ******************** **/
+
+/** Disc & CD   **/ img[src*="/assets/a2527ed63fbfe469cd8973970c6278a1.svg"], img[src*="/assets/6e829dbdc26783477c653d4a6fd6587c.svg"] {animation: rotate 2s infinite;} 
+/** Gear        **/ img[src*="/assets/c61c8e1ffdcbf98496bc098c35f0f694.svg"] {animation: rotate 2s infinite;}
+
+/** ******************** **
+	Smilies
+** ******************** **/
+
+/** Money Wings **/ img[src*="/assets/630828f0eaa647bf465b3b903b0dbc5f.svg"] {animation: wobble 2s infinite;}
+/** Kiss        **/ img[src*="/assets/0f7bf0aae65b06ec5a342ae10c4b1856.svg"] {animation: heartbeat 1s infinite;}
+/** Hammer      **/ img[src*="/assets/596bd0f8541debff8d44326e840ea085.svg"] {animation: wobble 0.5s infinite;}
+/** Pickaxe     **/ img[src*="/assets/4d61ad14c090b4d6a2d1c989d78bc273.svg"] {animation: wobble 0.5s infinite;}
+
+/** Waving      **/ img[src*="/assets/5999436f48c8f7835827894e40c1abc3.svg"] ,
+					img[src*="/assets/85c50026a1c1c5650a380b1093f5bf4d.svg"] ,
+					img[src*="/assets/f9b126045cd4cf9db0659eaae3532d10.svg"] ,
+					img[src*="/assets/1e332e8ed4d42b0df8f45240faa418e3.svg"] ,
+					img[src*="/assets/913d69eb7de899273c246f4e6f901c2d.svg"] ,
+					img[src*="/assets/dfa1d049eb68962bf88053707242db53.svg"] {animation: wobble 2s infinite;}
+
+/** ROFL        **/ img[src*="/assets/a8fc44fdb07e26cf994055376a719540.svg"] {animation: rofl 2s infinite;}
+/** Upside Down **/ img[src*="/assets/96b458e549758981dba74c32137c0784.svg"] {animation: wobble 2s infinite;}
+/** Scared      **/ img[src*="/assets/9bd8b85559466379744360f8c9841f39.svg"] {animation: scare 2s infinite;}
+/** Joyful      **/ img[src*="/assets/cae9e3b02af6e987442df2953de026fc.svg"] {animation: joy 2s infinite;}
+/** Heart Eyes  **/ img[src*="/assets/7e4f6dcf32845bfa865cf17491faf867.svg"] {animation: heartbeat 1s infinite;}
+/** Sneezing    **/ img[src*="/assets/f2ff2b63da9f3c90788af6db317ee268.svg"] {animation: wobble 1s infinite;}
+
+/** Joyful Cat  **/ img[src*="/assets/9d0105dee7788a1fd4afbafe46dbd49b.svg"] {animation: joy 2s infinite;}
+/** Heart Eyes  **/ img[src*="/assets/cc8afc69b651db9c2e9be9922eb84d52.svg"] {animation: heartbeat 1s infinite;}
+
+
+/** ************************************************ **/
+/** CSS KEYFRAMES BEGIN HERE, ITS GOING TO GET MESSY **/
+/** ************************************************ **/
+
+@keyframes wobble	{0%,100%{transform:rotate(20deg)}50%{transform:rotate(-20deg)}}
+@keyframes scare	{0%,100%{transform:rotate(9deg)}50%{transform:rotate(-9deg)}}
+@keyframes hourglass{0%,100%,41%{transform:rotate(0)}20%,40%{transform:rotate(-180deg)}}
+@keyframes rotate 	{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+@keyframes rofl 	{0%{transform:rotate(45deg)}100%{transform:rotate(404deg)}}
+@keyframes heartbeat{0%,100%,40%,80%{transform:scale(.75)}20%,60%{transform:scale(1)}}
+@keyframes joy 		{0%,100%,50%{transform:scale(.9)}25%,75%{transform:scale(1)}}

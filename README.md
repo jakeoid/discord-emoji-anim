@@ -1,2 +1,3 @@
-# discord-emoji-anim
-These are some pretty cool animations that you can add to your Discord client in order to make things like hearts beating, Rotating Suns &amp; Snowflakes, Rolling ROFL's and the like!
+# Discord Emoji Animations.
+
+When you first begin with Discord you're left with some pretty subpar level Emoji, I always thought this was dumb so I chose to spice it up by animating said emoji. If you're interested in contributing please message @jakeoid#6284 on Discord or by submitting a PR Request on the REPO.
