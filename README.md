@@ -1,7 +1,16 @@
-<img src="icon.gif" align="right" />
 # Discord Emoji Animations.
 
 When you first begin with Discord you're left with some pretty subpar level Emoji, I always thought this was dumb so I chose to spice it up by animating said emoji. If you're interested in contributing please message @jakeoid#6284 on Discord or by submitting a PR Request on the REPO.
+
+So.. just what Emoji are edited?
+
+💋❤❤💔💕💖💗💙💚💛💜🖤
+☀❄⌛
+⚽⚾🏀🏐🎾
+💿📀⚙
+💸🔨⛏👋🤣🙃😱😂😍🤧😹😻
+
+A video of all of these that are edited can be found [here](http://i.jakeoid.com/emoji_anim_v2.mov).
 
 ##Installation
 
@@ -19,7 +28,7 @@ Or if you already have a theme that you want to install it over the top of use..
 
 ```@import "https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css"```
 
-###Disclaimer
+##Disclaimer
 
  - Yes, I know this is hacky
  - Yes, I know this is CSS abuse, and we should be in the internet jail right now
