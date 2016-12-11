@@ -4,13 +4,9 @@ When you first begin with Discord you're left with some pretty subpar level Emoj
 
 So.. just what Emoji are edited?
 
-💋❤💔💕💖💗💙💚💛💜🖤
-☀❄⌛
-⚽⚾🏀🏐🎾
-💿📀⚙
-💸🔨⛏👋🤣🙃😱😂😍🤧😹😻
+<img src="preview.gif" align="center" />
 
-A video of all of these that are edited can be found [here](http://i.jakeoid.com/emoji_anim_v2.mov).
+A video of all of these that are edited can be found [here](https://owo.whats-th.is/193994.mp4).
 
 ##Installation
 
