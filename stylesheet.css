@@ -10,82 +10,92 @@
 
     https://owo.whats-th.is/d8ef5d.gif
 
-**/
+    **/
 
 /** ******************** **
 	Hearts
-** ******************** **/ 
+	** ******************** **/ 
 
-/** Heart       **/ img[alt*=":heart:"], 
-					img[alt*=":hearts:"], 
-					img[alt*=":green_heart:"], 
-					img[alt*=":purple_heart:"],
-					img[alt*=":yellow_heart:"], 
-					img[alt*=":heartbeat:"], 
-					img[alt*=":heartpulse:"], 
-					img[alt*=":black_heart:"], 
-					img[alt*=":sparkling_heart:"] { animation: heartbeat 1s infinite;}
+	/** Heart       **/ 
+	img[alt*=":heart:"], 
+	img[alt*=":hearts:"], 
+	img[alt*=":green_heart:"], 
+	img[alt*=":blue_heart:"], 
+	img[alt*=":purple_heart:"],
+	img[alt*=":yellow_heart:"], 
+	img[alt*=":heartbeat:"], 
+	img[alt*=":heartpulse:"], 
+	img[alt*=":black_heart:"], 
+	img[alt*=":sparkling_heart:"] { animation: heartbeat 1s infinite;}
 
 /** ******************** **
 	Emoji
-** ******************** **/
+	** ******************** **/
 
-/** Money Wings **/ img[alt*=":money_with_wings:"] {animation: wobble 2s infinite;}
-/** Kiss        **/ img[alt*=":kiss:"] {animation: heartbeat 1s infinite;}
-/** Hammer      **/ img[alt*=":hammer:"] {animation: wobble 0.5s infinite;}
-/** Pickaxe     **/ img[alt*=":pick:"] {animation: wobble 0.5s infinite;}
-/** Bomb        **/ img[alt*=":bomb:"] 										 {animation: bomb 2s infinite;}
+	/** Money Wings **/ img[alt*=":money_with_wings:"] {animation: wobble 2s infinite;}
+	/** Kiss        **/ img[alt*=":kiss:"] {animation: heartbeat 1s infinite;}
+	/** Hammer      **/ img[alt*=":hammer:"] {animation: wobble 0.5s infinite;}
+	/** Pickaxe     **/ img[alt*=":pick:"] {animation: wobble 0.5s infinite;}
+	/** Bomb        **/ img[alt*=":bomb:"] {animation: bomb 2s infinite;}
+	/** Boom 		**/ img[alt*=":boom:"] {animation: boom 2s infinite;}
+	/** Eyes 		**/ img[alt*=":eyes:"] {animation: eyes 4s infinite;animation-timing-function:steps(1);}
 
-/** Heart Eyes  **/ img[alt*=":heart_eyes:"] {animation: heartbeat 1s infinite;}
-/** Joyful      **/ img[alt*=":joy:"] {animation: joy 2s infinite;}
-/** Upside Down **/ img[alt*=":upside_down:"] {animation: wobble 2s infinite;}
-/** Scream      **/ img[alt*=":scream:"] {animation: scare 2s infinite;}
-/** ROFL        **/ img[alt*=":rofl:"] {animation: rofl 2s infinite;}
-/** Sneezing    **/ img[alt*=":sneezing_face:"] {animation: wobble 1s infinite;}
+	/** Heart Eyes  **/ img[alt*=":heart_eyes:"] {animation: heartbeat 1s infinite;}
+	/** Joyful      **/ img[alt*=":joy:"] {animation: joy 2s infinite;}
+	/** Upside Down **/ img[alt*=":upside_down:"] {animation: wobble 2s infinite;}
+	/** Scream      **/ img[alt*=":scream:"] {animation: scare 2s infinite;}
+	/** ROFL        **/ img[alt*=":rofl:"] {animation: rofl 2s infinite;}
+	/** Sneezing    **/ img[alt*=":sneezing_face:"] {animation: wobble 1s infinite;}
 
-/** Joyful Cat  **/ img[alt*=":joy_cat:"] {animation: joy 2s infinite;}
-/** Heart Eyes  **/ img[alt*=":heart_eyes_cat:"] {animation: heartbeat 1s infinite;}
+	/** Joyful Cat  **/ img[alt*=":joy_cat:"] {animation: joy 2s infinite;}
+	/** Heart Eyes  **/ img[alt*=":heart_eyes_cat:"] {animation: heartbeat 1s infinite;}
 
-/** Waving      **/ img[src*="/assets/5999436f48c8f7835827894e40c1abc3.svg"] ,
-					img[src*="/assets/85c50026a1c1c5650a380b1093f5bf4d.svg"] ,
-					img[src*="/assets/f9b126045cd4cf9db0659eaae3532d10.svg"] ,
-					img[src*="/assets/1e332e8ed4d42b0df8f45240faa418e3.svg"] ,
-					img[src*="/assets/913d69eb7de899273c246f4e6f901c2d.svg"] ,
-					img[src*="/assets/dfa1d049eb68962bf88053707242db53.svg"] {animation: wobble 2s infinite;}
+	/** Waving      **/ 
+
+	img[src*="/assets/5999436f48c8f7835827894e40c1abc3.svg"] ,
+	img[src*="/assets/85c50026a1c1c5650a380b1093f5bf4d.svg"] ,
+	img[src*="/assets/f9b126045cd4cf9db0659eaae3532d10.svg"] ,
+	img[src*="/assets/1e332e8ed4d42b0df8f45240faa418e3.svg"] ,
+	img[src*="/assets/913d69eb7de899273c246f4e6f901c2d.svg"] ,
+	img[src*="/assets/dfa1d049eb68962bf88053707242db53.svg"] {animation: wobble 2s infinite;}
 
 /** ******************** **
 	Sports
-** ******************** **/
+	** ******************** **/
 
-/** Soccer      **/ img[alt*=":soccer:"] {animation: rotate 2s infinite;} 
-/** Basketball  **/ img[alt*=":basketball:"] {animation: rotate 2s infinite;}
-/** Baseball    **/ img[alt*=":baseball:"] {animation: rotate 2s infinite;} 
-/** Tennis      **/ img[alt*=":tennis:"] {animation: rotate 2s infinite;}
+	/** Soccer      **/ img[alt*=":soccer:"] {animation: rotate 2s infinite;} 
+	/** Basketball  **/ img[alt*=":basketball:"] {animation: rotate 2s infinite;}
+	/** Baseball    **/ img[alt*=":baseball:"] {animation: rotate 2s infinite;} 
+	/** Tennis      **/ img[alt*=":tennis:"] {animation: rotate 2s infinite;}
 
 /** ******************** **
 	Tech
-** ******************** **/
+	** ******************** **/
 
-/** Gear        **/ img[alt*=":gear:"] {animation: rotate 2s infinite;}
-/** Disc & CD   **/ img[alt*=":cd:"], img[alt*=":dvd:"] {animation: rotate 2s infinite;} 
+	/** Gear        **/ img[alt*=":gear:"] {animation: rotate 2s infinite;}
+	/** Disc & CD   **/ img[alt*=":cd:"], img[alt*=":dvd:"] {animation: rotate 2s infinite;} 
 
 /** ******************** **
 	Etc
-** ******************** **/
+	** ******************** **/
 
-/** Snowflake   **/ img[alt*=":snowflake:"] {animation: rotate 2s infinite;}
-/** Sun         **/ img[alt*=":sunny:"] {animation: rotate 2s infinite;}
-/** Hourglass   **/ img[alt*=":hourglass:"] {animation: hourglass 2s infinite;}
+	/** Snowflake   **/ img[alt*=":snowflake:"] {animation: rotate 2s infinite;}
+	/** Sun         **/ img[alt*=":sunny:"] {animation: rotate 2s infinite;}
+	/** Hourglass   **/ img[alt*=":hourglass:"] {animation: hourglass 2s infinite;}
 
-/** ************************************************ **/
-/** CSS KEYFRAMES BEGIN HERE, ITS GOING TO GET MESSY **/
-/** ************************************************ **/
+	/** ************************************************ **/
+	/** CSS KEYFRAMES BEGIN HERE, ITS GOING TO GET MESSY **/
+	/** ************************************************ **/
 
-@keyframes wobble	{0%,100%{transform:rotate(20deg)}50%{transform:rotate(-20deg)}}
-@keyframes scare	{0%,100%{transform:rotate(9deg)}50%{transform:rotate(-9deg)}}
-@keyframes hourglass{0%,100%,41%{transform:rotate(0)}20%,40%{transform:rotate(-180deg)}}
-@keyframes rotate 	{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
-@keyframes rofl 	{0%{transform:rotate(45deg)}100%{transform:rotate(404deg)}}
-@keyframes heartbeat{0%,100%,40%,80%{transform:scale(.75)}20%,60%{transform:scale(1)}}
-@keyframes joy 		{0%,100%,50%{transform:scale(.9)}25%,75%{transform:scale(1)}}
-@keyframes bomb 	{0%,100%,20%{transform:scale(1)}90%{transform:scale(.6)}95%{transform:scale(1.5)}}
+	@keyframes wobble	{0%,100%{transform:rotate(20deg)}50%{transform:rotate(-20deg)}}
+	@keyframes scare	{0%,100%{transform:rotate(9deg)}50%{transform:rotate(-9deg)}}
+	@keyframes hourglass{0%,100%,41%{transform:rotate(0)}20%,40%{transform:rotate(-180deg)}}
+	@keyframes rotate 	{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
+	@keyframes rofl 	{0%{transform:rotate(45deg)}100%{transform:rotate(404deg)}}
+	@keyframes heartbeat{0%,100%,40%,80%{transform:scale(.75)}20%,60%{transform:scale(1)}}
+	@keyframes joy 		{0%,100%,50%{transform:scale(.9)}25%,75%{transform:scale(1)}}
+	@keyframes boom 	{0% {transform:scale(.1)}20% {transform:scale(1)}80% {transform:scale(1);opacity: 1;}100%{opacity: 0;}}
+	@keyframes bomb 	{0%,100%,20%{transform:scale(1)}90%{transform:scale(.6)}95%{transform:scale(1.5)}}
+	@keyframes eyes 	{0%,25%,75%{transform:scaleX(1)}50%,100%{transform:scaleX(-1)}}
+
+	/** ******* **/
