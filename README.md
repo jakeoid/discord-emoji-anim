@@ -8,6 +8,8 @@ So.. just what Emoji are edited?
 
 A video of all of these that are edited can be found [here](https://owo.whats-th.is/193994.mp4).
 
+( Both of these videos are out of date though, as of 12/12/16. )
+
 ##Installation
 
 There are two easy ways to install the client, for this example im going to tell you how to install it using BeautifulDiscord. 
@@ -15,10 +17,10 @@ There are two easy ways to install the client, for this example im going to tell
 1. Download the [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) client, instructions for installing can be found there.
 
 2. Clone my code that I have here,
-```git clone https://github.com/jakeoid/disccord.git```
+```git clone https://github.com/jakeoid/discord-emoji-anim.git```
 
 3. Re-run the BeautifulDiscord command.
-```beautifuldiscord --css ./disccord/disccord.css``` 
+```beautifuldiscord --css ./discord-emoji-anim/stylesheet.css``` 
 
 Or if you already have a theme that you want to install it over the top of use..
 
@@ -27,7 +29,7 @@ Or if you already have a theme that you want to install it over the top of use..
 ##Disclaimer
 
  - Yes, I know this is hacky
- - Yes, I know this is CSS abuse, and we should be in the internet jail right now
+ - Yes, I know this is CSS abuse, and I should be in the internet jail right now
  - Yes, I know this isn't even properly formated
  - Yes, I know there's no point on doing this
 
