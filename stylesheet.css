@@ -44,7 +44,7 @@
 	/** Heart Eyes  **/ img[alt*=":heart_eyes:"] {animation: heartbeat 1s infinite;}
 	/** Joyful      **/ img[alt*=":joy:"] {animation: joy 2s infinite;}
 	/** Upside Down **/ img[alt*=":upside_down:"] {animation: wobble 2s infinite;}
-	/** Scream      **/ img[alt*=":scream:"] {animation: scare 2s infinite;}
+	/** Scream      **/ img[alt*=":scream:"], img[alt*=":scream_cat:"] {animation: scare 2s infinite;}
 	/** ROFL        **/ img[alt*=":rofl:"] {animation: rofl 2s infinite;}
 	/** Sneezing    **/ img[alt*=":sneezing_face:"] {animation: wobble 1s infinite;}
 
