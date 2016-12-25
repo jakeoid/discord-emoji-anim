@@ -83,6 +83,8 @@
 	/** Snowflake   **/ img[alt*=":snowflake:"] {animation: rotate 2s infinite;}
 	/** Sun         **/ img[alt*=":sunny:"] {animation: rotate 2s infinite;}
 	/** Hourglass   **/ img[alt*=":hourglass:"] {animation: hourglass 2s infinite;}
+	/** mmLol	**/ .emoji[alt*="mmLol"] {animation: mmlol 5s infinite;}
+
 
 	/** ************************************************ **/
 	/** CSS KEYFRAMES BEGIN HERE, ITS GOING TO GET MESSY **/
@@ -98,5 +100,6 @@
 	@keyframes boom 	{0% {transform:scale(.1)}20% {transform:scale(1)}80% {transform:scale(1);opacity: 1;}100%{opacity: 0;}}
 	@keyframes bomb 	{0%,100%,20%{transform:scale(1)}90%{transform:scale(.6)}95%{transform:scale(1.5)}}
 	@keyframes eyes 	{0%,25%,75%{transform:scaleX(1)}50%,100%{transform:scaleX(-1)}}
+	@keyframes mmlol 	{0% { transform: rotate(0deg); }69% { transform: rotate(0deg); }70% { transform: rotate(-90deg); }99% { transform: rotate(-90deg); }100% { transform: rotate(0deg); }}
 
 	/** ******* **/
