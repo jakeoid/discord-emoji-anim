@@ -51,14 +51,7 @@
 	/** Joyful Cat  **/ img[alt*=":joy_cat:"] {animation: joy 2s infinite;}
 	/** Heart Eyes  **/ img[alt*=":heart_eyes_cat:"] {animation: heartbeat 1s infinite;}
 
-	/** Waving      **/ 
-
-	img[src*="/assets/5999436f48c8f7835827894e40c1abc3.svg"] ,
-	img[src*="/assets/85c50026a1c1c5650a380b1093f5bf4d.svg"] ,
-	img[src*="/assets/f9b126045cd4cf9db0659eaae3532d10.svg"] ,
-	img[src*="/assets/1e332e8ed4d42b0df8f45240faa418e3.svg"] ,
-	img[src*="/assets/913d69eb7de899273c246f4e6f901c2d.svg"] ,
-	img[src*="/assets/dfa1d049eb68962bf88053707242db53.svg"] {animation: wobble 2s infinite;}
+	/** Waving      **/ img[alt*=":wave:"] {animation: wobble 2s infinite;}
 
 /** ******************** **
 	Sports
