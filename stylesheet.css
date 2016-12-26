@@ -40,6 +40,7 @@
 	/** Bomb        **/ img[alt*=":bomb:"] {animation: bomb 2s infinite;}
 	/** Boom 		**/ img[alt*=":boom:"] {animation: boom 2s infinite;}
 	/** Eyes 		**/ img[alt*=":eyes:"] {animation: eyes 4s infinite;animation-timing-function:steps(1);}
+	/** Laughing 	**/ img[alt*=":laughing:"] {transform: rotate(-90deg);}
 
 	/** Heart Eyes  **/ img[alt*=":heart_eyes:"] {animation: heartbeat 1s infinite;}
 	/** Joyful      **/ img[alt*=":joy:"] {animation: joy 2s infinite;}
