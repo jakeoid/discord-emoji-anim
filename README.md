@@ -24,7 +24,7 @@ There are two easy ways to install the client, for this example im going to tell
 
 Or if you already have a theme that you want to install it over the top of use..
 
-```@import "https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css"```
+```@import "https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css";```
 
 ##Disclaimer
 
