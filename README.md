@@ -10,7 +10,7 @@ A video of all of these that are edited can be found [here](https://owo.whats-th
 
 ( Both of these videos are out of date though, as of 12/12/16. )
 
-##Installation
+## Installation
 
 There are two easy ways to install the client, for this example im going to tell you how to install it using BeautifulDiscord. 
 
@@ -26,7 +26,7 @@ Or if you already have a theme that you want to install it over the top of use..
 
 ```@import "https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css";```
 
-##Disclaimer
+## Disclaimer
 
  - Yes, I know this is hacky
  - Yes, I know this is CSS abuse, and I should be in the internet jail right now
